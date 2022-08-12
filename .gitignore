@@ -34,3 +34,24 @@ cmake-build-*/
 
 # mpeltonen/sbt-idea plugin
 .idea_modules/
+
+
+**/.vscode  
+.vscode/*
+/**/.vscode/*
+
+**/.DS_Store  
+.DS_Store/*
+/**/.DS_Store/*
+
+**/.database.sqlite3  
+.database.sqlite3/*
+/**/.database.sqlite3/*
+
+**/.another_db.sqlite3  
+.another_db.sqlite3/*
+/**/.another_db.sqlite3/*
+
+**/.db.sqlite3 
+.db.sqlite3/*
+/**/.db.sqlite3/* 
