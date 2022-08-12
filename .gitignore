@@ -1,5 +1,7 @@
 **/.idea
 .idea/*
+/**/.idea/*
+
 .idea/workspace.xml
 .idea/tasks.xml
 .idea/dictionaries
@@ -14,9 +16,21 @@
 .idea/dynamic.xml
 .idea/uiDesigner.xml
 
+# mpeltonen/sbt-idea plugin
+.idea_modules/
+
+# CMake
+cmake-build-*/
+
+# Cursive Clojure plugin
+.idea/replstate.xml
+
 # Gradle:
 .idea/gradle.xml
 .idea/libraries
 
 # Mongo Explorer plugin:
 .idea/mongoSettings.xml
+
+# mpeltonen/sbt-idea plugin
+.idea_modules/
